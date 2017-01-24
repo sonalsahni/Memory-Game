@@ -1,0 +1,48 @@
+body
+{
+  background-image: url('bgm.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: sans-serif;
+}
+h1
+{
+  text-align: center;
+}
+.tiles
+{
+  padding: 10%;
+}
+button
+{
+  width: 200px;
+  background-color:black;
+  color: white;
+  border-radius: 20px;
+  font-size: 25px;
+  margin:10px;
+  padding:10px;
+}
+.menu
+{
+  width: 200px;
+  background-color:black;
+  color: white;
+  border-radius: 20px;
+  font-size: 25px;
+  margin:10px;
+  padding:10px;
+}
+span
+{
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  background-image: url('back.jpg');
+  border-radius: 10px;
+  border: 2px solid white;
+  font-size: 25px;
+  padding: 25px;
+  margin:5px 10px;
+}
